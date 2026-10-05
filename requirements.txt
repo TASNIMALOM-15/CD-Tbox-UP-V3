@@ -1,0 +1,7 @@
+pyrofork>=2.3.60,<3
+tgcrypto-pyrofork>=1.2.7
+aioterabox>=0.3,<1
+aiohttp>=3.9,<4
+python-dotenv>=1.0,<2
+google-auth>=2.29,<3
+requests>=2.31,<3
